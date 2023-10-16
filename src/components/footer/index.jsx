@@ -19,7 +19,7 @@ export const Footer = () => {
               </div>
               <p className="copyright-text">
                 © All rights reserved.
-                By Alifiya Kapasi
+                By Rahil Vahora
               </p>
             </div>
           </div>
