@@ -4,9 +4,6 @@
 Welcome to the Ecommerce Bookstore, a modern web application built with ReactJS, Material-UI, HTML, CSS, and JavaScript. This project allows you to create and manage an online bookstore where users can browse, search, and purchase books. 📖
 <img src="bookstore.png" width="900">
 
-# Live Project Link: 
-https://ebookstore-tatvasoft.netlify.app/
-
 
 ## Demo 🚀
 Experience the Ecommerce Bookstore in action: [Live Demo](https://ebookstore-tatvasoft.netlify.app/) 🌐
